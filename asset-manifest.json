@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Gajendera7814/SimplyFI-assignment1/static/css/main.e4edc828.css",
+    "main.js": "/Gajendera7814/SimplyFI-assignment1/static/js/main.6a8ca91d.js",
+    "static/js/787.001e509f.chunk.js": "/Gajendera7814/SimplyFI-assignment1/static/js/787.001e509f.chunk.js",
+    "static/media/logo.svg": "/Gajendera7814/SimplyFI-assignment1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Gajendera7814/SimplyFI-assignment1/index.html",
+    "main.e4edc828.css.map": "/Gajendera7814/SimplyFI-assignment1/static/css/main.e4edc828.css.map",
+    "main.6a8ca91d.js.map": "/Gajendera7814/SimplyFI-assignment1/static/js/main.6a8ca91d.js.map",
+    "787.001e509f.chunk.js.map": "/Gajendera7814/SimplyFI-assignment1/static/js/787.001e509f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4edc828.css",
+    "static/js/main.6a8ca91d.js"
+  ]
+}
